@@ -1,24 +1,82 @@
-# 💫 About Me:
-🔭 I’m currently working on training a large language model on my speech patterns<br>🤝 I’m looking for help with finetuning tips<br>🌱 I’m currently studying a degree in data science<br>💬 Ask me about Tame Impala<br>⚡ Fun fact: National Finalist for a Barista Competition
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:164e63&height=190&section=header&text=Michael%20Mckellar&fontColor=e2e8f0&fontSize=44&fontAlignY=36&desc=data%20science%20%7C%20applied%20ML%20%7C%20systems%20%26%20creative%20tools&descAlignY=58&descSize=16" width="100%" alt="Michael Mckellar" />
 
+  <a href="https://github.com/LikelyLucid">
+    <img src="https://komarev.com/ghpvc/?username=LikelyLucid&style=flat-square&color=164e63&label=visitors" alt="profile views" />
+  </a>
+  <a href="https://www.linkedin.com/in/michael-arthur-mckellar">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/likelylucid_">
+    <img src="https://img.shields.io/badge/Instagram-0f172a?style=flat-square&logo=instagram&logoColor=f9a8d4" alt="Instagram" />
+  </a>
+  <a href="mailto:michael.mckellarr@gmail.com">
+    <img src="https://img.shields.io/badge/email-0f172a?style=flat-square&logo=gmail&logoColor=fca5a5" alt="Email" />
+  </a>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/likelylucid_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-arthur-mckellar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michael.mckellarr@gmail.com) 
+<br />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LikelyLucid&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LikelyLucid&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LikelyLucid&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Hey, I'm Michael 👋
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LikelyLucid&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+I'm a **data science student in New Zealand** who likes working at the intersection of messy data, useful software, and slightly over-engineered infrastructure.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LikelyLucid&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+I build things to learn how they work — from ML experiments and personal tools to Linux systems that should probably have been left alone.
 
----
-[![](https://visitcount.itsvg.in/api?id=LikelyLucid&icon=0&color=0)](https://visitcount.itsvg.in)
+```text
+currently → learning, shipping, breaking, fixing
+interests → applied ML · self-hosting · human-computer tools · good coffee
+fun fact   → national finalist in a barista competition
+```
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I'm into
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📊 Data & ML</h3>
+      Turning real-world mess into models, visualisations, and answers that are actually useful.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛠 Systems</h3>
+      NixOS, homelabs, automation, and the eternal quest for reproducible setups.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎛 Making</h3>
+      Personal software, creative experiments, and tools that make everyday life a little stranger.
+    </td>
+  </tr>
+</table>
+
+## Selected projects
+
+| Project | What it is |
+| :--- | :--- |
+| [**nixos**](https://github.com/LikelyLucid/nixos) | Declarative machine configuration and the ongoing battle against configuration drift. |
+| [**dotfiles**](https://github.com/LikelyLucid/dotfiles) | The small collection of config files that somehow became a personality. |
+| [**pi-config**](https://github.com/LikelyLucid/pi-config) | Configuration for a small local AI agent. |
+| [**Spotify_Textualize**](https://github.com/LikelyLucid/Spotify_Textualize) | A Python experiment for turning listening history into something readable. |
+| [**LikelyLucid.github.io**](https://github.com/LikelyLucid/LikelyLucid.github.io) | Personal web space, currently under construction as usual. |
+
+## Toolbox
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=60a5fa" alt="Python" />
+  <img src="https://img.shields.io/badge/R-0f172a?style=flat-square&logo=r&logoColor=75aadb" alt="R" />
+  <img src="https://img.shields.io/badge/PyTorch-0f172a?style=flat-square&logo=pytorch&logoColor=ee4c2c" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/pandas-0f172a?style=flat-square&logo=pandas&logoColor=150458" alt="pandas" />
+  <img src="https://img.shields.io/badge/NixOS-0f172a?style=flat-square&logo=nixos&logoColor=7dd3fc" alt="NixOS" />
+  <img src="https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux&logoColor=facc15" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=2496ed" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=93c5fd" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-0f172a?style=flat-square&logo=redis&logoColor=f87171" alt="Redis" />
+  <img src="https://img.shields.io/badge/Home%20Assistant-0f172a?style=flat-square&logo=homeassistant&logoColor=41bdf5" alt="Home Assistant" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-0f172a?style=flat-square&logo=githubactions&logoColor=8b5cf6" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Blender-0f172a?style=flat-square&logo=blender&logoColor=f97316" alt="Blender" />
+</p>
+
+<div align="center">
+  <sub>building slowly · shipping often · making a mess of the right things</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164e63,100:0f172a&height=100&section=footer" width="100%" alt="" />
